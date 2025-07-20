@@ -1,0 +1,1 @@
+# equal-weight-nifty50-index
