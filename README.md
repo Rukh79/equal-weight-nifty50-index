@@ -1,1 +1,1 @@
-# Equal Weight NIFTY 50 Strategy
+# equal-weight-nifty50-index
